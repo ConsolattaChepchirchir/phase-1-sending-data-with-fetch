@@ -4,7 +4,7 @@ function submitData(name,email){
     name: "Steve",
     email: "steve@steve.com",
   };
-  
+  //data insertion
   const configurationObject = {
     method: "POST",
     headers: {
